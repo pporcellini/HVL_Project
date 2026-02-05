@@ -1,0 +1,201 @@
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 11714631 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 6330169 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2300154 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2567292 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3065262 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5178985 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 6685769 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3718585 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 9114784 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3032477 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 6993123 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 6346723 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 6067507 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4019354 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4095446 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3392600 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5653707 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4873338 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3477154 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3640015 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2149200 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3368493 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 1874585 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5006816 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4876292 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2901938 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3655800 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4379569 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2247123 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2912785 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 7138462 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2528615 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3127738 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 9682724 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 10420631 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3972738 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2820477 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2126169 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 1793877 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3446970 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3958939 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 7004093 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4793277 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4217847 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3328970 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3040677 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2656154 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3771539 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3111138 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 6568107 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2278016 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3839400 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 1665384 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2172369 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4311354 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5445000 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3824661 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3777215 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2131061 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2912554 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2644985 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 8426754 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2001446 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5217000 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3454754 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2860538 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5978508 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 1735430 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5977353 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3642893 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2093169 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4307538 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2111077 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2264677 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4020784 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4802415 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 7305938 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3655308 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4962785 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3926769 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3058646 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2666984 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4871615 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3971277 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5186523 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3538524 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4130923 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2579815 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5437324 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2133646 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 5150185 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3254154 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4193062 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2541908 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2706262 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 2062646 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 8022246 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4233954 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 4981139 nanoseconds
+message received: "from ept 0x0402: ping /dev/rpmsg0"
+Elapsed time: 3839338 nanoseconds
+
