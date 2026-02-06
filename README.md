@@ -30,6 +30,7 @@ Build Script:
 
 Zephyr:
 * References to the OpenAMP and Libmetal repositories in west.yml have been adjusted, and the code in /samples/virtio/hvl_net_rng_reloc has been instrumented to measure timing.
+* An attempt was made using recent releases of Zephyr and OpenAMP modified for the Hypervisorless VirtIO solution; however, compilation issues were encountered. The configuration file .yml available at https://github.com/OpenAMP/openamp-system-reference was used. In the build.sh script, it is sufficient to use an up-to-date Zephyr SDK and execute the west init command which refers to this configuration file. To use the upstream OpenAMP and Libmetal modules with Zephyr, it is necessary to include the additional module available at https://github.com/OpenAMP/openamp-zephyr-modules.
 
 Demo RPMsg Multi Services:
 * The file https://github.com/OpenAMP/openamp-system-reference/blob/v2024.05/examples/linux/rpmsg-utils/rpmsg_ping.c has been modified to measure timimg; it is compiled using Petalinux SDK. Insert the compiled file into the openamp/demo-lite:v2024.05 container, copy it to demo-r5-combo/my-extra-stuff/home/root. Once QEMU has started, run "cp rpmsg_ping /usr/bin/" and start the demo"./demo1"
