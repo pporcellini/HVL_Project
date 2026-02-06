@@ -1,0 +1,10 @@
+Elapsed time for entropy: 2300 ms
+Elapsed clock cycles for entropy: 11507316 clk
+Elapsed time for entropy: 740 ms
+Elapsed clock cycles for entropy: 3717579 clk
+Elapsed time for entropy: 1150 ms
+Elapsed clock cycles for entropy: 5723404 clk
+Elapsed time for entropy: 850 ms
+Elapsed clock cycles for entropy: 4226810 clk
+Elapsed time for entropy: 490 ms
+Elapsed clock cycles for entropy: 2462994 clk
